@@ -1,0 +1,2 @@
+# mapV-for-openLayers
+添加mapV的OpenLayers3支持，并提供使用案例根据百度的MapV框架进行扩展，使其支持openLayers 3，在openLayers地图上实现MapV效果
